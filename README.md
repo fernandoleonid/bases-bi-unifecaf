@@ -62,7 +62,3 @@ Em `Base_Vendas_2022.csv`, o desconto já está refletido em `preco_unitario` e 
 ## Histórico de alterações
 
 Qualquer alteração nas bases será registrada aqui, com data e motivo, e comunicada às turmas.
-
-| Data | Alteração |
-|---|---|
-| 22/11/2026 | Publicação inicial das bases |
