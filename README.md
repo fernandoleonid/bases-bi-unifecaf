@@ -10,8 +10,8 @@ Os dados são **fictícios**, elaborados para fins didáticos. As bases foram pr
 
 | Arquivo | Descrição |
 |---|---|
-| `Cadastro_Produtos.csv` | 200 produtos da E-ComTech |
-| `Base_Vendas_2022.csv` | 10.000 vendas registradas de 01/01/2022 a 31/12/2022 |
+| [`Cadastro_Produtos.csv`](Cadastro_Produtos.csv) | 200 produtos da E-ComTech |
+| [`Base_Vendas_2022.csv`](Base_Vendas_2022.csv) | 10.000 vendas registradas de 01/01/2022 a 31/12/2022 |
 
 ## Formato
 
