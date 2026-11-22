@@ -1,0 +1,201 @@
+﻿id_produto;nome_produto;categoria;preco_venda;custo_aquisicao;fornecedor;prazo_entrega_dias;estoque_atual;estoque_inicial_2022;ativo
+P0001;Mouse sem fio 001;Informática;54.69;35.42;Fornecedor 01;5;51;135;Sim
+P0002;Carregador 002;Telefonia;96.78;61.16;Fornecedor 08;3;55;92;Sim
+P0003;Luminária de mesa 003;Casa e Escritório;172.59;122.29;Fornecedor 15;15;105;156;Sim
+P0004;Caixa de som 004;Áudio e Vídeo;457.45;364.34;Fornecedor 02;11;28;47;Sim
+P0005;Mochila para notebook 005;Acessórios;221.17;164.17;Fornecedor 09;12;157;158;Sim
+P0006;Controle para videogame 006;Games;499.54;407.86;Fornecedor 16;3;56;60;Sim
+P0007;Câmera digital 007;Fotografia;2775.94;1881.23;Fornecedor 03;6;121;157;Sim
+P0008;Cafeteira 008;Eletroportáteis;551.34;350.72;Fornecedor 10;12;77;130;Sim
+P0009;Teclado Compacto 009;Informática;95.94;67.85;Fornecedor 17;11;77;175;Sim
+P0010;Cabo USB Compacto 010;Telefonia;68.01;44.71;Fornecedor 04;6;14;66;Sim
+P0011;Cadeira de escritório Compacto 011;Casa e Escritório;1217.72;699.41;Fornecedor 11;14;80;146;Sim
+P0012;Microfone Compacto 012;Áudio e Vídeo;469.46;379.22;Fornecedor 18;7;142;186;Sim
+P0013;Hub USB Compacto 013;Acessórios;165.56;133.47;Fornecedor 05;7;118;150;Sim
+P0014;Headset gamer Compacto 014;Games;402.11;302.24;Fornecedor 12;8;18;22;Sim
+P0015;Tripé Compacto 015;Fotografia;268.71;189.39;Fornecedor 19;2;32;130;Sim
+P0016;Liquidificador Compacto 016;Eletroportáteis;199.72;124.04;Fornecedor 06;15;27;101;Sim
+P0017;Webcam Plus 017;Informática;114.25;75.25;Fornecedor 13;6;47;103;Sim
+P0018;Fone Bluetooth Plus 018;Telefonia;122.98;86.39;Fornecedor 20;11;131;163;Sim
+P0019;Suporte para notebook Plus 019;Casa e Escritório;75.75;46.12;Fornecedor 07;14;133;147;Sim
+P0020;Smart TV Plus 020;Áudio e Vídeo;3817.35;2205.08;Fornecedor 14;5;79;173;Sim
+P0021;Leitor de cartão Plus 021;Acessórios;89.87;64.67;Fornecedor 01;7;156;229;Sim
+P0022;Teclado gamer Plus 022;Games;174.45;103.57;Fornecedor 08;5;54;139;Sim
+P0023;Cartão de memória Plus 023;Fotografia;154.03;105.19;Fornecedor 15;7;139;212;Sim
+P0024;Air fryer Plus 024;Eletroportáteis;814.04;591.41;Fornecedor 02;7;68;134;Sim
+P0025;Headset Premium 025;Informática;343.23;263.29;Fornecedor 09;10;27;97;Sim
+P0026;Capa para celular Premium 026;Telefonia;90.87;70.23;Fornecedor 16;14;82;180;Sim
+P0027;Organizador Premium 027;Casa e Escritório;111.84;88.52;Fornecedor 03;10;122;159;Sim
+P0028;Projetor Premium 028;Áudio e Vídeo;2433.14;1593.36;Fornecedor 10;6;53;57;Sim
+P0029;Mousepad Premium 029;Acessórios;71.03;41.08;Fornecedor 17;10;129;158;Sim
+P0030;Mouse gamer RGB Premium 030;Games;281.56;225.73;Fornecedor 04;2;94;185;Sim
+P0031;Lente para câmera Premium 031;Fotografia;1562.03;1174.68;Fornecedor 11;15;141;202;Sim
+P0032;Ferro de passar Premium 032;Eletroportáteis;227.41;149.71;Fornecedor 18;12;55;112;Sim
+P0033;SSD 033;Informática;481.95;363.78;Fornecedor 05;14;94;148;Sim
+P0034;Power bank 034;Telefonia;188.17;147.16;Fornecedor 12;11;154;165;Sim
+P0035;Impressora 035;Casa e Escritório;1002.3;643.23;Fornecedor 19;13;18;113;Sim
+P0036;Soundbar 036;Áudio e Vídeo;996.38;664.91;Fornecedor 06;14;102;151;Sim
+P0037;Bolsa para acessórios 037;Acessórios;51.2;34.8;Fornecedor 13;7;44;79;Sim
+P0038;Cadeira gamer 038;Games;819.9;661.5;Fornecedor 20;15;80;171;Sim
+P0039;Flash 039;Fotografia;1011.85;745.35;Fornecedor 07;15;135;215;Sim
+P0040;Aspirador portátil 040;Eletroportáteis;343.0;228.49;Fornecedor 14;11;68;159;Sim
+P0041;Memória RAM Compacto 041;Informática;241.22;179.51;Fornecedor 01;10;50;122;Sim
+P0042;Suporte veicular Compacto 042;Telefonia;98.39;67.86;Fornecedor 08;13;112;151;Sim
+P0043;Papel A4 pacote Compacto 043;Casa e Escritório;47.21;29.47;Fornecedor 15;2;147;197;Sim
+P0044;Cabo HDMI Compacto 044;Áudio e Vídeo;42.34;30.58;Fornecedor 02;15;55;69;Sim
+P0045;Adaptador USB Compacto 045;Acessórios;40.23;26.45;Fornecedor 09;4;105;160;Sim
+P0046;Console Compacto 046;Games;4455.29;3058.42;Fornecedor 16;14;154;164;Sim
+P0047;Bolsa para câmera Compacto 047;Fotografia;100.98;70.32;Fornecedor 03;6;148;161;Sim
+P0048;Ventilador Compacto 048;Eletroportáteis;180.17;124.99;Fornecedor 10;10;31;35;Sim
+P0049;Monitor Plus 049;Informática;1266.68;774.2;Fornecedor 17;8;72;160;Sim
+P0050;Smartphone Plus 050;Telefonia;4048.33;2480.27;Fornecedor 04;4;59;103;Sim
+P0051;Mesa para escritório Plus 051;Casa e Escritório;435.43;265.77;Fornecedor 11;7;72;87;Sim
+P0052;Controle remoto Plus 052;Áudio e Vídeo;43.68;29.88;Fornecedor 18;7;118;150;Sim
+P0053;Suporte para monitor Plus 053;Acessórios;242.83;151.86;Fornecedor 05;14;113;188;Sim
+P0054;Jogo para console Plus 054;Games;176.1;109.43;Fornecedor 12;12;102;148;Sim
+P0055;Bateria para câmera Plus 055;Fotografia;199.81;115.6;Fornecedor 19;3;113;123;Sim
+P0056;Umidificador Plus 056;Eletroportáteis;130.9;99.27;Fornecedor 06;15;75;92;Sim
+P0057;Roteador Premium 057;Informática;222.39;130.7;Fornecedor 13;15;156;199;Sim
+P0058;Película Premium 058;Telefonia;44.76;29.53;Fornecedor 20;7;138;140;Sim
+P0059;Gaveteiro Premium 059;Casa e Escritório;193.08;151.96;Fornecedor 07;10;122;152;Sim
+P0060;Webcam streaming Premium 060;Áudio e Vídeo;160.71;98.88;Fornecedor 14;8;37;109;Sim
+P0061;Organizador de cabos Premium 061;Acessórios;42.82;26.03;Fornecedor 01;12;86;97;Sim
+P0062;Volante gamer Premium 062;Games;1044.86;728.53;Fornecedor 08;8;14;40;Sim
+P0063;Ring light Premium 063;Fotografia;228.36;131.72;Fornecedor 15;4;49;103;Sim
+P0064;Chaleira elétrica Premium 064;Eletroportáteis;82.74;49.63;Fornecedor 02;8;36;60;Sim
+P0065;Notebook 065;Informática;3393.37;2601.09;Fornecedor 09;4;151;236;Sim
+P0066;Adaptador de tomada 066;Telefonia;27.71;21.17;Fornecedor 16;11;10;11;Sim
+P0067;Fragmentadora 067;Casa e Escritório;764.46;599.41;Fornecedor 03;14;137;174;Sim
+P0068;Fone com fio 068;Áudio e Vídeo;129.35;78.55;Fornecedor 10;9;56;100;Sim
+P0069;Capa para notebook 069;Acessórios;102.54;69.05;Fornecedor 17;7;19;101;Sim
+P0070;Base carregadora 070;Games;175.36;138.4;Fornecedor 04;14;14;93;Sim
+P0071;Fundo fotográfico 071;Fotografia;318.29;199.22;Fornecedor 11;3;76;127;Sim
+P0072;Sanduicheira 072;Eletroportáteis;91.22;71.25;Fornecedor 18;7;142;186;Sim
+P0073;Mouse gamer Compacto 073;Informática;206.25;134.85;Fornecedor 05;4;99;184;Sim
+P0074;Carregador sem fio Compacto 074;Telefonia;232.07;178.25;Fornecedor 12;8;151;181;Sim
+P0075;Apoio ergonômico Compacto 075;Casa e Escritório;245.24;192.64;Fornecedor 19;11;152;177;Sim
+P0076;Receptor de áudio Compacto 076;Áudio e Vídeo;269.58;200.41;Fornecedor 06;14;74;128;Sim
+P0077;Filtro de linha Compacto 077;Acessórios;100.84;58.78;Fornecedor 13;15;66;73;Sim
+P0078;Microfone gamer Compacto 078;Games;547.95;325.66;Fornecedor 20;4;27;59;Sim
+P0079;Controle remoto câmera Compacto 079;Fotografia;63.37;43.17;Fornecedor 07;6;73;142;Sim
+P0080;Balança digital Compacto 080;Eletroportáteis;132.97;79.42;Fornecedor 14;14;81;122;Sim
+P0081;Mouse sem fio Plus 081;Informática;137.72;100.17;Fornecedor 01;7;85;110;Sim
+P0082;Carregador Plus 082;Telefonia;83.41;54.94;Fornecedor 08;12;152;245;Sim
+P0083;Luminária de mesa Plus 083;Casa e Escritório;152.56;92.76;Fornecedor 15;4;57;110;Sim
+P0084;Caixa de som Plus 084;Áudio e Vídeo;637.12;392.84;Fornecedor 02;3;51;145;Sim
+P0085;Mochila para notebook Plus 085;Acessórios;372.52;288.73;Fornecedor 09;13;135;234;Sim
+P0086;Controle para videogame Plus 086;Games;428.9;249.25;Fornecedor 16;6;119;210;Sim
+P0087;Câmera digital Plus 087;Fotografia;1783.42;1428.09;Fornecedor 03;6;98;136;Sim
+P0088;Cafeteira Plus 088;Eletroportáteis;237.36;138.0;Fornecedor 10;12;40;103;Sim
+P0089;Teclado Premium 089;Informática;142.62;114.72;Fornecedor 17;14;157;248;Sim
+P0090;Cabo USB Premium 090;Telefonia;49.64;40.21;Fornecedor 04;10;55;86;Sim
+P0091;Cadeira de escritório Premium 091;Casa e Escritório;1101.45;892.14;Fornecedor 11;14;101;131;Sim
+P0092;Microfone Premium 092;Áudio e Vídeo;252.67;162.62;Fornecedor 18;12;64;116;Sim
+P0093;Hub USB Premium 093;Acessórios;125.13;75.47;Fornecedor 05;9;65;144;Sim
+P0094;Headset gamer Premium 094;Games;498.83;360.88;Fornecedor 12;7;111;129;Sim
+P0095;Tripé Premium 095;Fotografia;94.9;77.6;Fornecedor 19;6;147;199;Sim
+P0096;Liquidificador Premium 096;Eletroportáteis;325.04;236.1;Fornecedor 06;13;41;97;Sim
+P0097;Webcam 097;Informática;158.51;128.89;Fornecedor 13;15;89;140;Sim
+P0098;Fone Bluetooth 098;Telefonia;233.45;135.02;Fornecedor 20;7;71;142;Sim
+P0099;Suporte para notebook 099;Casa e Escritório;215.23;164.66;Fornecedor 07;15;34;60;Sim
+P0100;Smart TV 100;Áudio e Vídeo;3266.7;2616.5;Fornecedor 14;3;65;67;Sim
+P0101;Leitor de cartão 101;Acessórios;113.68;74.32;Fornecedor 01;11;126;140;Sim
+P0102;Teclado gamer 102;Games;185.35;131.77;Fornecedor 08;9;84;119;Sim
+P0103;Cartão de memória 103;Fotografia;59.5;45.47;Fornecedor 15;14;155;237;Sim
+P0104;Air fryer 104;Eletroportáteis;413.58;245.15;Fornecedor 02;14;114;204;Sim
+P0105;Headset Compacto 105;Informática;124.96;75.13;Fornecedor 09;6;61;140;Sim
+P0106;Capa para celular Compacto 106;Telefonia;69.05;54.98;Fornecedor 16;15;85;163;Sim
+P0107;Organizador Compacto 107;Casa e Escritório;110.37;80.7;Fornecedor 03;2;34;133;Sim
+P0108;Projetor Compacto 108;Áudio e Vídeo;2866.79;1744.97;Fornecedor 10;3;99;157;Sim
+P0109;Mousepad Compacto 109;Acessórios;67.91;44.65;Fornecedor 17;5;105;160;Sim
+P0110;Mouse gamer RGB Compacto 110;Games;334.22;258.38;Fornecedor 04;7;99;135;Sim
+P0111;Lente para câmera Compacto 111;Fotografia;3090.0;2105.12;Fornecedor 11;5;62;113;Sim
+P0112;Ferro de passar Compacto 112;Eletroportáteis;342.95;218.56;Fornecedor 18;11;142;180;Sim
+P0113;SSD Plus 113;Informática;630.31;417.22;Fornecedor 05;3;96;168;Sim
+P0114;Power bank Plus 114;Telefonia;277.92;167.02;Fornecedor 12;3;42;130;Sim
+P0115;Impressora Plus 115;Casa e Escritório;1392.21;823.65;Fornecedor 19;8;16;60;Sim
+P0116;Soundbar Plus 116;Áudio e Vídeo;955.56;604.63;Fornecedor 06;10;20;36;Sim
+P0117;Bolsa para acessórios Plus 117;Acessórios;76.19;56.18;Fornecedor 13;12;130;137;Sim
+P0118;Cadeira gamer Plus 118;Games;1519.32;892.99;Fornecedor 20;6;104;163;Sim
+P0119;Flash Plus 119;Fotografia;285.67;222.82;Fornecedor 07;15;114;178;Sim
+P0120;Aspirador portátil Plus 120;Eletroportáteis;265.68;210.17;Fornecedor 14;13;17;36;Sim
+P0121;Memória RAM Premium 121;Informática;495.84;367.96;Fornecedor 01;7;116;179;Sim
+P0122;Suporte veicular Premium 122;Telefonia;48.22;32.59;Fornecedor 08;3;40;44;Sim
+P0123;Papel A4 pacote Premium 123;Casa e Escritório;49.67;28.64;Fornecedor 15;6;65;131;Sim
+P0124;Cabo HDMI Premium 124;Áudio e Vídeo;24.92;16.31;Fornecedor 02;7;145;150;Sim
+P0125;Adaptador USB Premium 125;Acessórios;41.22;26.3;Fornecedor 09;4;89;146;Sim
+P0126;Console Premium 126;Games;3641.93;2478.93;Fornecedor 16;10;148;202;Sim
+P0127;Bolsa para câmera Premium 127;Fotografia;275.23;206.54;Fornecedor 03;11;96;105;Sim
+P0128;Ventilador Premium 128;Eletroportáteis;439.07;300.7;Fornecedor 10;3;27;70;Sim
+P0129;Monitor 129;Informática;1178.26;877.59;Fornecedor 17;13;89;186;Sim
+P0130;Smartphone 130;Telefonia;2028.28;1504.23;Fornecedor 04;7;75;170;Sim
+P0131;Mesa para escritório 131;Casa e Escritório;709.56;543.37;Fornecedor 11;13;107;156;Sim
+P0132;Controle remoto 132;Áudio e Vídeo;61.47;41.93;Fornecedor 18;2;120;193;Sim
+P0133;Suporte para monitor 133;Acessórios;169.3;105.74;Fornecedor 05;9;124;138;Sim
+P0134;Jogo para console 134;Games;218.4;141.3;Fornecedor 12;10;158;178;Sim
+P0135;Bateria para câmera 135;Fotografia;167.26;129.91;Fornecedor 19;7;134;159;Sim
+P0136;Umidificador 136;Eletroportáteis;228.93;179.34;Fornecedor 06;10;87;102;Sim
+P0137;Roteador Compacto 137;Informática;394.62;242.09;Fornecedor 13;7;140;164;Sim
+P0138;Película Compacto 138;Telefonia;19.97;15.81;Fornecedor 20;4;46;130;Sim
+P0139;Gaveteiro Compacto 139;Casa e Escritório;429.56;275.99;Fornecedor 07;15;89;94;Sim
+P0140;Webcam streaming Compacto 140;Áudio e Vídeo;162.1;121.22;Fornecedor 14;11;83;160;Sim
+P0141;Organizador de cabos Compacto 141;Acessórios;21.12;15.04;Fornecedor 01;12;133;169;Sim
+P0142;Volante gamer Compacto 142;Games;1863.33;1407.97;Fornecedor 08;12;13;49;Sim
+P0143;Ring light Compacto 143;Fotografia;219.18;126.05;Fornecedor 15;8;120;142;Sim
+P0144;Chaleira elétrica Compacto 144;Eletroportáteis;232.9;184.51;Fornecedor 02;2;118;191;Sim
+P0145;Notebook Plus 145;Informática;4600.84;3487.26;Fornecedor 09;5;97;102;Sim
+P0146;Adaptador de tomada Plus 146;Telefonia;31.99;20.77;Fornecedor 16;14;153;186;Sim
+P0147;Fragmentadora Plus 147;Casa e Escritório;717.29;454.19;Fornecedor 03;7;138;223;Sim
+P0148;Fone com fio Plus 148;Áudio e Vídeo;48.74;31.93;Fornecedor 10;15;112;157;Sim
+P0149;Capa para notebook Plus 149;Acessórios;185.02;124.47;Fornecedor 17;4;49;49;Sim
+P0150;Base carregadora Plus 150;Games;72.36;57.41;Fornecedor 04;13;41;94;Sim
+P0151;Fundo fotográfico Plus 151;Fotografia;453.82;265.03;Fornecedor 11;10;55;109;Sim
+P0152;Sanduicheira Plus 152;Eletroportáteis;173.46;124.35;Fornecedor 18;15;21;25;Sim
+P0153;Mouse gamer Premium 153;Informática;368.48;239.74;Fornecedor 05;7;14;77;Sim
+P0154;Carregador sem fio Premium 154;Telefonia;173.02;107.94;Fornecedor 12;2;35;51;Sim
+P0155;Apoio ergonômico Premium 155;Casa e Escritório;100.97;80.89;Fornecedor 19;13;74;110;Sim
+P0156;Receptor de áudio Premium 156;Áudio e Vídeo;216.94;139.88;Fornecedor 06;10;76;110;Sim
+P0157;Filtro de linha Premium 157;Acessórios;35.37;25.13;Fornecedor 13;12;46;106;Sim
+P0158;Microfone gamer Premium 158;Games;328.67;188.14;Fornecedor 20;12;54;126;Sim
+P0159;Controle remoto câmera Premium 159;Fotografia;91.4;61.84;Fornecedor 07;3;149;229;Sim
+P0160;Balança digital Premium 160;Eletroportáteis;62.95;39.93;Fornecedor 14;12;74;102;Sim
+P0161;Mouse sem fio 161;Informática;88.55;61.0;Fornecedor 01;15;148;203;Sim
+P0162;Carregador 162;Telefonia;89.77;58.12;Fornecedor 08;2;156;197;Sim
+P0163;Luminária de mesa 163;Casa e Escritório;62.69;40.16;Fornecedor 15;4;131;225;Sim
+P0164;Caixa de som 164;Áudio e Vídeo;249.81;180.15;Fornecedor 02;7;42;77;Sim
+P0165;Mochila para notebook 165;Acessórios;363.9;276.43;Fornecedor 09;4;25;45;Sim
+P0166;Controle para videogame 166;Games;364.1;296.28;Fornecedor 16;9;144;146;Sim
+P0167;Câmera digital 167;Fotografia;2217.89;1716.03;Fornecedor 03;9;106;107;Sim
+P0168;Cafeteira 168;Eletroportáteis;245.08;182.86;Fornecedor 10;11;38;39;Sim
+P0169;Teclado Compacto 169;Informática;240.39;161.86;Fornecedor 17;9;64;135;Sim
+P0170;Cabo USB Compacto 170;Telefonia;44.3;32.12;Fornecedor 04;12;19;62;Sim
+P0171;Cadeira de escritório Compacto 171;Casa e Escritório;1444.17;1011.25;Fornecedor 11;11;42;138;Sim
+P0172;Microfone Compacto 172;Áudio e Vídeo;155.06;124.22;Fornecedor 18;10;99;134;Sim
+P0173;Hub USB Compacto 173;Acessórios;145.13;112.85;Fornecedor 05;7;116;209;Sim
+P0174;Headset gamer Compacto 174;Games;422.42;258.09;Fornecedor 12;7;94;169;Sim
+P0175;Tripé Compacto 175;Fotografia;398.46;317.91;Fornecedor 19;10;87;134;Sim
+P0176;Liquidificador Compacto 176;Eletroportáteis;265.32;153.08;Fornecedor 06;2;47;122;Sim
+P0177;Webcam Plus 177;Informática;163.79;97.18;Fornecedor 13;5;21;102;Sim
+P0178;Fone Bluetooth Plus 178;Telefonia;82.54;67.07;Fornecedor 20;9;35;75;Sim
+P0179;Suporte para notebook Plus 179;Casa e Escritório;82.56;59.76;Fornecedor 07;7;16;70;Sim
+P0180;Smart TV Plus 180;Áudio e Vídeo;3691.7;2784.56;Fornecedor 14;14;153;231;Sim
+P0181;Leitor de cartão Plus 181;Acessórios;94.15;67.61;Fornecedor 01;7;87;136;Sim
+P0182;Teclado gamer Plus 182;Games;214.12;124.62;Fornecedor 08;6;43;79;Sim
+P0183;Cartão de memória Plus 183;Fotografia;86.67;68.75;Fornecedor 15;10;27;64;Sim
+P0184;Air fryer Plus 184;Eletroportáteis;521.04;417.03;Fornecedor 02;2;72;155;Sim
+P0185;Headset Premium 185;Informática;289.67;229.2;Fornecedor 09;2;80;128;Sim
+P0186;Capa para celular Premium 186;Telefonia;49.01;29.18;Fornecedor 16;9;93;138;Sim
+P0187;Organizador Premium 187;Casa e Escritório;132.62;97.26;Fornecedor 03;8;157;203;Sim
+P0188;Projetor Premium 188;Áudio e Vídeo;2646.13;1561.68;Fornecedor 10;10;34;43;Sim
+P0189;Mousepad Premium 189;Acessórios;77.46;60.52;Fornecedor 17;10;53;95;Sim
+P0190;Mouse gamer RGB Premium 190;Games;192.81;113.78;Fornecedor 04;7;110;142;Sim
+P0191;Lente para câmera Premium 191;Fotografia;1240.46;772.78;Fornecedor 11;9;127;133;Sim
+P0192;Ferro de passar Premium 192;Eletroportáteis;322.02;195.48;Fornecedor 18;4;33;65;Sim
+P0193;SSD 193;Informática;222.24;175.27;Fornecedor 05;2;22;24;Sim
+P0194;Power bank 194;Telefonia;295.67;211.86;Fornecedor 12;11;30;76;Sim
+P0195;Impressora 195;Casa e Escritório;716.53;545.76;Fornecedor 19;12;59;60;Sim
+P0196;Soundbar 196;Áudio e Vídeo;1164.56;769.48;Fornecedor 06;15;11;54;Sim
+P0197;Bolsa para acessórios 197;Acessórios;82.29;52.53;Fornecedor 13;8;83;122;Sim
+P0198;Cadeira gamer 198;Games;675.48;411.76;Fornecedor 20;8;150;237;Sim
+P0199;Flash 199;Fotografia;884.52;563.65;Fornecedor 07;10;37;119;Sim
+P0200;Aspirador portátil 200;Eletroportáteis;480.08;339.82;Fornecedor 14;7;86;107;Sim
